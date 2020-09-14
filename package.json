@@ -1,0 +1,8 @@
+{
+  "name": "i9ak6v--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "6.5.5"
+  }
+}
